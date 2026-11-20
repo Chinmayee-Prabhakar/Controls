@@ -1,6 +1,6 @@
 # Robot Controls — Feedback, Robust & Adaptive Control
 
-A series of MATLAB and ROS/Gazebo projects on manipulator dynamics, stabilization, trajectory tracking, and uncertain-parameter control. These are educational simulations, not a head-to-head experimental benchmark.
+A series of MATLAB and ROS/Gazebo projects on manipulator dynamics, stabilization, trajectory tracking, and uncertain-parameter control. 
 
 ## Controller gallery
 
