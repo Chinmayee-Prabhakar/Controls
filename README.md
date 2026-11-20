@@ -33,6 +33,6 @@ The later modules model manipulator dynamics in the form `M(q)q̈ + C(q,q̇)q̇ 
 
 - For Projects 3–5, open MATLAB with the corresponding `Project N` as the working folder and run `main.m`. MATLAB's Symbolic Math and Control System toolboxes may be required for associated design scripts.
 - Project 2 additionally needs ROS 1, a matching Gazebo RRBot simulation, MATLAB ROS connectivity, and the effort topics named in `rrbot_control.m`.
-- The original PDF reports give figures and the experimental assumptions for each assignment; performance metrics have **not** been standardized across the five projects.
+- The original PDF reports give figures and the experimental assumptions for each assignment.
 
-**Related work:** [Autonomous Aerial Robotics](https://github.com/Chinmayee-Prabhakar/Autonomous-Aerial-Robotics) · [ORB-based Visual SLAM](https://github.com/Chinmayee-Prabhakar/orb-slam-mono)
+
